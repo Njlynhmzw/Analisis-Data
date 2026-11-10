@@ -1,1 +1,1 @@
-ISI_DENGAN_URL_STREAMLIT_CLOUD (hapus berkas ini jika tidak melakukan deploy)
+https://njlynhmzw-analisis-data-dashboarddashboard-qrs5vz.streamlit.app/
